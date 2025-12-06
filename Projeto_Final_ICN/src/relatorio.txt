@@ -1,0 +1,3 @@
+Relatório gerado automaticamente
+Aproximação sin integral = 1.9999983550656624
+Raiz sqrt(2) Newton = 1.414213562373095
